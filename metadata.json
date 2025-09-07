@@ -1,0 +1,5 @@
+{
+  "name": "Vuelta a Honduras 2025 Results",
+  "description": "A responsive web application to visualize and filter the results of the 2025 'Vuelta a Honduras' cycling race, including stage results, final general classification, and other categories.",
+  "requestFramePermissions": []
+}
